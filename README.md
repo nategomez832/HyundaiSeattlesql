@@ -1,4 +1,4 @@
-#🚗 SQL Vehicle Inventory Project
+#<h1>🚗 SQL Vehicle Inventory Project
 This project showcases my SQL skills using PostgreSQL to analyze vehicle inventory data. I performed data cleaning, uploading, and querying to extract insights about electric vehicles, Hyundai counts per city, and utilized SQL joins.
 
 <h2>📌 Table Creation
